@@ -2,8 +2,6 @@
 
 This project was made with GLTF models, Threejs, 3-Fiber, 3-drei and React!
 
-![Demo](/src/img/demo.png)
-
 ## About the Project
 
 Interactive 3D Configurator .
